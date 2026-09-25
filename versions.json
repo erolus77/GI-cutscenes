@@ -1305,6 +1305,55 @@
 					]
 				}
 			]
+		},
+		{
+			"version": "7.1",
+			"encAudio": true,
+			"videoGroups": [
+				{
+					"version": "7017",
+					"key": 5281416956962385,
+					"aesKey": "f9e9e1c5cf3a68deffa0a4d3df665836",
+					"videos": [
+						"Cs_ZD_AQ70171401_UR_Boy",
+						"Cs_ZD_AQ70171401_UR_Girl"
+					]
+				},
+				{
+					"version": "7019",
+					"key": 5351726569916101,
+					"aesKey": "c97ebd42d0795cde582b754bd54ab46c",
+					"videos": [
+						"Cs_ZD_AQ70190901_HE"
+					]
+				},
+				{
+					"version": "7020",
+					"key": 1330754440416212,
+					"aesKey": "f5ac17ffe4b4b430553ae073eb8a8a1d",
+					"videos": [
+						"Cs_ZD_AQ70200801_TFR_Boy",
+						"Cs_ZD_AQ70200801_TFR_Girl",
+						"Cs_ZD_AQ70201101_RTF_Boy",
+						"Cs_ZD_AQ70201101_RTF_Girl",
+						"Cs_ZD_AQ70201201_SLT"
+					]
+				},
+				{
+					"version": "40251",
+					"key": 3958569438854401,
+					"videos": [
+						"Cs_LY_EQ4025110_ZY"
+					]
+				},
+				{
+					"version": "_reunion_",
+					"key": 1869975058887509,
+					"videos": [
+						"Video_Reunion_71"
+					]
+				}
+			]
 		}
 
 
