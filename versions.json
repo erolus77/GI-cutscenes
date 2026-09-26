@@ -1342,6 +1342,7 @@
 				{
 					"version": "40251",
 					"key": 3958569438854401,
+					"aesKey": "458725216E2CCBCD12961E57B85109A6",
 					"videos": [
 						"Cs_LY_EQ4025110_ZY"
 					]
@@ -1349,6 +1350,7 @@
 				{
 					"version": "_reunion_",
 					"key": 1869975058887509,
+					"aesKey": "52110eff32d786123de8579e872bb28d",
 					"videos": [
 						"Video_Reunion_71"
 					]
